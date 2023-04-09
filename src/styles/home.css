@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: flex-start;
+}
+
+.flex-four {
+  width: 3;
+  padding: 10px;
+}
+
+.flex-eight {
+  flex: 9;
+  padding: 20px;
+}
+
+  
